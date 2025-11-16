@@ -80,7 +80,8 @@ que se compruebe como se veria un caso real de hacer una pagina web usando
 una IA para que nos genere el markdown (README) y lo necesario
 para inicializar una pagina web, en resumen y lo que esta bien
 es que la IA te ayuda a crear el markdown para no tener
-que hacerlo manualmente tu, ahorrandote mucho tiempo
+que hacerlo manualmente tu, ahorrandote mucho tiempo 
+aunque tambien tiene sus errores como cualquier cosa.
 aunque tambien tiene sus errores como cualquier cosa.
 
 
