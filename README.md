@@ -95,3 +95,7 @@ utilizados durante la práctica:
 - git branch: (COMPLETAR)
 - git merge: (COMPLETAR)
 - git push: (COMPLETAR)
+
+## Información técnica añadida desde rama 2
+67498e2 (HEAD -> rama2_nombreApellido1Estudiante, main) Revert "Primer commit"
+282f1c5 (origin/main) Primer commit
