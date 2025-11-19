@@ -99,7 +99,3 @@ utilizados durante la práctica:
 ## Información técnica añadida desde rama 2
 67498e2 (HEAD -> rama2_nombreApellido1Estudiante, main) Revert "Primer commit"
 282f1c5 (origin/main) Primer commit
-
-
-## Información técnica añadida desde rama 4
-Para conectar mi repositorio local con GitLab, utilicé los comandos de git remote add origin para asociar el repositorio remoto de GitLab con mi repositorio local. Luego, realicé un git push en mi repositorio local para subir los cambios que he hecho en mi repositorio local a GitLab y que este sincronizados para poder trabajar a distancia desde mi repositorio local.
